@@ -1,5 +1,8 @@
+### conclusion
+> by using web.xml we configure servlet container and run the application easy to understand
 
-##Dependencies
+
+## Dependencies
 
 ```xml
 <dependencies>
